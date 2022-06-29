@@ -6,6 +6,10 @@
     "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.0?deps=preact@10.8.1",
     "@twind": "./utils/twind.ts",
     "twind": "https://esm.sh/twind@0.16.17",
-    "twind/": "https://esm.sh/twind@0.16.17/"
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "$std/": "https://deno.land/std@0.144.0/",
+    "supabase": "https://esm.sh/@supabase/supabase-js@1.35.3",
+    "emojify": "https://esm.sh/@twuni/emojify@1.0.2",
+    "$postgres": "https://deno.land/x/postgres@v0.16.1/mod.ts"
   }
 }

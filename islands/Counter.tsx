@@ -10,7 +10,7 @@ interface CounterProps {
 
 export default function Counter(props: CounterProps) {
   const [count, setCount] = useState(props.start);
-  const [email, setEmail] = useState('');
+  const [email, setEmail] = useState("");
 
   const btn = tw`px-2 py-1 border(gray-100 1) hover:bg-gray-200`;
   return (
